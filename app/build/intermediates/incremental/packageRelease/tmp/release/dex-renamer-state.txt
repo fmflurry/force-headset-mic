@@ -1,0 +1,7 @@
+#Tue Mar 05 12:56:58 CET 2024
+base.0=C\:\\Users\\fmflo\\private\\force-headset-mic\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=C\:\\Users\\fmflo\\private\\force-headset-mic\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
